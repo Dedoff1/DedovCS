@@ -1,0 +1,14 @@
+C:\Users\dedof\source\repos\CSDedov\CSDedov\bin\Debug\net8.0\CSDedov.exe
+C:\Users\dedof\source\repos\CSDedov\CSDedov\bin\Debug\net8.0\CSDedov.deps.json
+C:\Users\dedof\source\repos\CSDedov\CSDedov\bin\Debug\net8.0\CSDedov.runtimeconfig.json
+C:\Users\dedof\source\repos\CSDedov\CSDedov\bin\Debug\net8.0\CSDedov.dll
+C:\Users\dedof\source\repos\CSDedov\CSDedov\bin\Debug\net8.0\CSDedov.pdb
+C:\Users\dedof\source\repos\CSDedov\CSDedov\obj\Debug\net8.0\CSDedov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dedof\source\repos\CSDedov\CSDedov\obj\Debug\net8.0\CSDedov.AssemblyInfoInputs.cache
+C:\Users\dedof\source\repos\CSDedov\CSDedov\obj\Debug\net8.0\CSDedov.AssemblyInfo.cs
+C:\Users\dedof\source\repos\CSDedov\CSDedov\obj\Debug\net8.0\CSDedov.csproj.CoreCompileInputs.cache
+C:\Users\dedof\source\repos\CSDedov\CSDedov\obj\Debug\net8.0\CSDedov.dll
+C:\Users\dedof\source\repos\CSDedov\CSDedov\obj\Debug\net8.0\refint\CSDedov.dll
+C:\Users\dedof\source\repos\CSDedov\CSDedov\obj\Debug\net8.0\CSDedov.pdb
+C:\Users\dedof\source\repos\CSDedov\CSDedov\obj\Debug\net8.0\CSDedov.genruntimeconfig.cache
+C:\Users\dedof\source\repos\CSDedov\CSDedov\obj\Debug\net8.0\ref\CSDedov.dll
